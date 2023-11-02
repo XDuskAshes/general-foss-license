@@ -1,4 +1,4 @@
-General Free and Open Source Software License v1.0
+General Free and Open Source Software License v1.0 | Revision I
 Copyright (c) <year> <author> <other copyright holders>
 Verbatim copies of this license may be distributed without modification to the text.
 
@@ -18,14 +18,12 @@ the Source or the Program.
 3. If the Program or the Source is modified, the distributor must add a notice
 and credit the original author of the Program or the Source.
 
-4. If a copy of the Program is distributed without the Source in any manner,
-then the legitimacy of the distributed form of the program is void,
-and is considered illegitimate at the fault of the distributor.
+4. Any and all distributions of the Program must also include the Source
+in a non compiled format, meaning the code by itself which is not the executable
+software.
 
-5. If a copy of the Program or the Source is distributed without
-a copy of this license text, then the legitimacy of the distributed
-form of the Program and/or the Source is void, and is considered
-illegitimate at the fault of the distributor.
+5. Every copy of the Program and the Source must be distributed with a copy
+of this license text.
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
