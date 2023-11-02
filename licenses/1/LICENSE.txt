@@ -1,0 +1,53 @@
+General Free and Open Source Software License v1.0
+Copyright (c) <year> <author> <other copyright holders>
+Verbatim copies of this license may be distributed without modification to the text.
+
+==== LICENSE TEXT ====
+
+Permission is hereby granted by the above author, and if applicable other copyright holders,
+to any person (the "User") obtaining a copy of this software (the "Program") and it's associated 
+source code files (the "Source"), to deal in the Program in a non-commercial manner,
+meaning dealing without monetary gain (acquiring any amount of money in any currency), under these conditions:
+
+1. The distributor must add a notice if the file had been modified in any way.
+
+2. Additionally, if the Source or the Program was obtained through online download,
+the distributor must provide a link to the address in which the distributor acquired
+the Source or the Program.
+
+3. If the Program or the Source is modified, the distributor must add a notice
+and credit the original author of the Program or the Source.
+
+4. If a copy of the Program is distributed without the Source in any manner,
+then the legitimacy of the distributed form of the program is void,
+and is considered illegitimate at the fault of the distributor.
+
+5. If a copy of the Program or the Source is distributed without
+a copy of this license text, then the legitimacy of the distributed
+form of the Program and/or the Source is void, and is considered
+illegitimate at the fault of the distributor.
+
+==== HEADER TEXT FOR SOURCE FILES ====
+The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
+
+General Free and Open Source Software License v1.0
+Copyright (c) <year> <author> <other copyright holders> <description of program purpose>
+
+This program/source code is licensed under the General Free and Open Source Software License v1.0,
+and as such you may deal in the software in a way in which does not lead to any acquisition of
+currency from the program or source code, and if modifications are made you must credit the original
+author and distribute a copy of the license file with the program/source code.
+
+You should have recieved a copy of the General Free and Open Source Software License v1.0 with this
+program/source code. If you haven't, please visit <link-to-license>. Please note that this program/source code
+being distributed without a copy of the license text makes it illegitimate on the fault of the person who
+distributed this copy of the program/source code to you. You may still use, remix, or otherwise modify/redistribute
+this program/source code under the conditions of the license.
+
+==== LIABILITY ====
+THIS PROGRAM AND/OR SOURCE CODE IS GIVEN "AS-IS", WITHOUT WARRANTY, EXPLICIT OR IMPLIED.
+THE ORIGINAL AUTHOR AND/OR ADDITIONAL COPYRIGHT HOLDERS ARE NOT RESPONSIBLE FOR ANY MISUSE
+OF THE PROGRAM, AND ANY SUCH MISUSE FALLS IN THE FAULT OF THE USER. IN ADDITION, MISUSE IS
+DEFINED AS ANY USE OF THE PROGRAM AND/OR SOURCE CODE THAT DEVIATES FROM ITS INTENED, LAWFUL,
+AND ETHICAL PURPOSE, AND WHICH MAY RESULT IN HARM, DAMAGE, OR VIOLATIONS OF APPLICABLE LAWS
+OR POLICIES.
