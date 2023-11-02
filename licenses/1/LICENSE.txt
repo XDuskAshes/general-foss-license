@@ -1,4 +1,4 @@
-General Free and Open Source Software License v1.0 | Revision I
+General Free and Open Source Software License v1.0 | Revision II
 Copyright (c) <year> <author> <other copyright holders>
 Verbatim copies of this license may be distributed without modification to the text.
 
@@ -31,7 +31,7 @@ The following text must be included (preferably at the top (beginning at line 0)
 General Free and Open Source Software License v1.0
 Copyright (c) <year> <author> <other copyright holders> <description of program purpose>
 
-This program/source code is licensed under the General Free and Open Source Software License v1.0,
+This program/source code is licensed under the General Free and Open Source Software License v1.0 or later versions,
 and as such you may deal in the software in a way in which does not lead to any acquisition of
 currency from the program or source code, and if modifications are made you must credit the original
 author and distribute a copy of the license file with the program/source code.
