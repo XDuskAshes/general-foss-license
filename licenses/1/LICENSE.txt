@@ -1,4 +1,4 @@
-General Free and Open Source Software License v1.0 | Revision V
+General Free and Open Source Software License v1.0 | Revision VI
 Copyright (c) <year> <author> <other copyright holders>
 Verbatim copies of this license may be distributed without modification to the text.
 
@@ -28,7 +28,7 @@ of this license text.
 6. Neither the Program or the Source may be used in any programs, software, or code
 that is not entirely Free and Open Source Software, meaning it may not be used in
 products that are not licensed in a way in which the source code cannot be copied,
-studied, or change the code to improve upon it.
+studied, or changed for the purposes of improvement of the code.
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
