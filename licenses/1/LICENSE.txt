@@ -1,4 +1,4 @@
-General Free and Open Source Software License v1.0 | Revision VI
+General Free and Open Source Software License v1.0
 Copyright (c) <year> <author> <other copyright holders>
 Verbatim copies of this license may be distributed without modification to the text.
 
