@@ -1,34 +1,39 @@
 General Free and Open Source Software License v1.0
-Copyright (c) <year> <author> <other copyright holders>
-Verbatim copies of this license may be distributed without modification to the text.
+Copyright (c) 2023 - Dusk (Common handles: XDuskAshes, XDuskAshesReal, and related decapitalizations)
+Verbatim and/or annotated copies of this license may be distributed as long as the content is unmodified.
 
 ==== LICENSE TEXT ====
 
-Permission is hereby granted by the above author, and if applicable other copyright holders,
-to any person (the "User") obtaining a copy of this software (the "Program") and it's associated 
-source code files (the "Source"), to deal in the Program in a non-commercial manner,
-meaning dealing without monetary gain (acquiring any amount of money in any currency), under these conditions:
+TERMS AND CONDITIONS
 
-1. The distributor must add a notice if the file had been modified in any way.
+DEFINITIONS
 
-2. Additionally, if the Source or the Program was obtained through online download,
-the distributor must provide a link to the address in which the distributor acquired
-the Source or the Program.
+Program: The usable product for an end user, such as a digital game or a document creator.
+Source: Raw, uncompiled files of the Program, often written in coding languages like C or Python.
+User: End-user of the Program, such as a digital game or document creator.
+Author: Whoever has created the Program.
+Distributor: Anyone who has distributed the Program.
+This License: Version 1.0 of the General Free and Open Source Software License.
+Copyright: Refers to copyright-esque/like laws that apply to other kinds of works, such as books or televisions.
 
-3. If the Program or the Source is modified, the distributor must add a notice
-and credit the original author of the Program or the Source.
+GENERAL TERMINOLOGY
 
-4. Any and all distributions of the Program must also include the Source
-in a non compiled format, and non-obfuscated. Obfuscation is defined as:
-"Purposefully placing meaningless or otherwise unneeded code to hide real function."
+A modified work is defined as: a derivative of a work that has changes not made by the original author of the original work.
 
-5. Every copy of the Program and the Source must be distributed with a copy
-of this license text.
+TERMS
 
-6. Neither the Program or the Source may be used in any programs, software, or code
-that is not entirely Free and Open Source Software, meaning it may not be used in
-products that are not licensed in a way in which the source code cannot be copied,
-studied, or changed for the purposes of improvement of the code.
+Permission is granted to any Author licensing their work under this License has the right
+to distribute and deal in the Program or the Source in a way that does not lead to
+acquisition of any currency, including but not limited to United States Dollars,
+British Pounds. As well as any electronic currency, such as Etherium or Bitcoin,
+that can be translated and/or exchanged into/for other currencies. Additionally,
+if any modifications to the Source or the Program are made by a Distributor, the Distributor
+must make note of the changes publicly, and provide changed source code.
+
+In addition, any Distributor must license the modified work under this same license,
+and provide a copy of the full Source to the Program, along with a full documentation
+of the changes that were made, and the Distributor must also provide a copy of This License
+with the modified work.
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
@@ -36,17 +41,20 @@ The following text must be included (preferably at the top (beginning at line 0)
 General Free and Open Source Software License v1.0
 Copyright (c) <year> <author> <other copyright holders> <description of program purpose>
 
-This program/source code is licensed under the General Free and Open Source Software License v1.0 or later versions,
-and as such you may deal in the software in a way in which does not lead to any acquisition of
-currency from the program or source code, and if modifications are made you must credit the original
-author and distribute a copy of the license file with the program/source code. This program/source code
-may not be used in non-free software.
+This program is Free and Open Source Software:
+you can reuse, remix or otherwise modify it
+under the terms of the General Free and Open Source Software License v1.0 as published
+by Dusk (Common handles: XDuskAshes, XDuskAshesReal, and related decapitalizations).
 
-You should have recieved a copy of the General Free and Open Source Software License v1.0 license text with this
-program/source code. If you haven't, please visit <https://raw.githubusercontent.com/XDuskAshes/general-foss-license/main/licenses/1/LICENSE.txt>.
-Please note that this program/source code being distributed without a copy of the license text makes it illegitimate
-on the fault of the person who distributed this copy of the program/source code to you. You may still use, remix, or
-otherwise modify/redistribute this program/source code under the conditions of the license.
+This program is distributed with the hopes of
+usefulness in it's intended use case,
+by WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED,
+UNDER ANY CIRCUMSTANCES.
+
+You should have recieved a copy
+of the General Free and Open Source Software License v1.0
+with this program/source code. If not,
+see <https://raw.githubusercontent.com/XDuskAshes/general-foss-license/main/licenses/1/LICENSE.txt>.
 
 ==== LIABILITY ====
 THIS PROGRAM AND/OR SOURCE CODE IS GIVEN "AS-IS", WITHOUT WARRANTY, EXPLICIT OR IMPLIED.
@@ -55,3 +63,7 @@ OF THE PROGRAM, AND ANY SUCH MISUSE FALLS IN THE FAULT OF THE USER. IN ADDITION,
 DEFINED AS ANY USE OF THE PROGRAM AND/OR SOURCE CODE THAT DEVIATES FROM ITS INTENDED, LAWFUL,
 AND ETHICAL PURPOSE, AND WHICH MAY RESULT IN HARM, DAMAGE, OR VIOLATIONS OF APPLICABLE LAWS
 OR POLICIES.
+
+IF, IN ANY CASE, THE ABOVE NOTICE CANNOT BE APPLIED, UTILIZE LOCAL LAW TO APPLY NO WARRANTY,
+EXPLICIT OR IMPLIED, FOR ANY MISUSE OR OTHERWISE SO THAT IT IS NOT ATTRIBUTED TO THE ORIGINAL
+AUTHOR OR COPYRIGHT HOLDERS OF THE ORIGINAL PROGRAM.
