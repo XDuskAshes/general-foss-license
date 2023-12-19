@@ -6,4 +6,4 @@ Submit suggestions in the "issues" tab. For revisions:
 
 - Fork
 - Make your changes
-- Make a pr
+- Make a pull request
