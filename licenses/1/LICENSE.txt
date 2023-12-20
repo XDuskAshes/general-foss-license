@@ -18,7 +18,8 @@ Copyright: Refers to copyright-esque/like laws that apply to other kinds of work
 
 GENERAL TERMINOLOGY
 
-A modified work is defined as: a derivative of a work that has changes not made by the original author of the original work.
+A modified work is defined as: A derivative of a work that has changes not made by the original author of the original work.
+Proprietary/Closed-Source software is defined as: Software in which the source code is not readily available to the populace; the software often licensed rather than properly bought.
 
 TERMS
 
@@ -34,6 +35,10 @@ In addition, any Distributor must license the modified work under this same lice
 and provide a copy of the full Source to the Program, along with a full documentation
 of the changes that were made, and the Distributor must also provide a copy of This License
 with the modified work.
+
+Additionally, no company, including Limited Liability Companies and other kinds of companies,
+may use any software or source code under this license in a proprietary and/or otherwise
+closed-source software.
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
