@@ -11,10 +11,11 @@ DEFINITIONS
 Program: The usable product for an end user, such as a digital game or a document creator.
 Source: Raw, uncompiled files of the Program, often written in coding languages like C or Python.
 User: End-user of the Program, such as a digital game or document creator.
-Author: Whoever has created the Program.
+Author: Whoever has created the Program originally.
 Distributor: Anyone who has distributed the Program.
 This License: Version 1.0 of the General Free and Open Source Software License.
 Copyright: Refers to copyright-esque/like laws that apply to other kinds of works, such as books or televisions.
+GFOSSL: The General Free and Open Source Software License v1.0
 
 GENERAL TERMINOLOGY
 
@@ -26,7 +27,7 @@ TERMS
 Permission is granted to any Author licensing their work under this License has the right
 to distribute and deal in the Program or the Source in a way that does not lead to
 acquisition of any currency, including but not limited to United States Dollars,
-British Pounds. As well as any electronic currency, such as Etherium or Bitcoin,
+and British Pounds. As well as any electronic currency, such as Etherium or Bitcoin,
 that can be translated and/or exchanged into/for other currencies. Additionally,
 if any modifications to the Source or the Program are made by a Distributor, the Distributor
 must make note of the changes publicly, and provide changed source code.
@@ -34,11 +35,9 @@ must make note of the changes publicly, and provide changed source code.
 In addition, any Distributor must license the modified work under this same license,
 and provide a copy of the full Source to the Program, along with a full documentation
 of the changes that were made, and the Distributor must also provide a copy of This License
-with the modified work.
-
-Additionally, no company, including Limited Liability Companies and other kinds of companies,
-may use any software or source code under this license in a proprietary and/or otherwise
-closed-source software.
+with the modified work. Additionally, no company, including Limited Liability Companies
+and other kinds of companies, may use any software or source code under this license in
+proprietary and/or otherwise closed-source software.
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
