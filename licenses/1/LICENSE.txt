@@ -19,8 +19,11 @@ GFOSSL: The General Free and Open Source Software License v1.0
 
 GENERAL TERMINOLOGY
 
-A modified work is defined as: A derivative of a work that has changes not made by the original author of the original work.
-Proprietary/Closed-Source software is defined as: Software in which the source code is not readily available to the populace; the software often licensed rather than properly bought.
+A modified work is defined as: A derivative of a work that has
+changes not made by the original author of the original work.
+Proprietary/Closed-Source software is defined as: Software in
+which the source code is not readily available to the populace;
+the software often licensed rather than properly bought.
 
 TERMS
 
@@ -38,6 +41,10 @@ of the changes that were made, and the Distributor must also provide a copy of T
 with the modified work. Additionally, no company, including Limited Liability Companies
 and other kinds of companies, may use any software or source code under this license in
 proprietary and/or otherwise closed-source software.
+
+UNDER NO CIRCUMSTANCES MAY ANY SOFTWARE/PROGRAMS LICENSED UNDER THIS LICENSE BE
+DISTRIBUTED/UTILIZED IN PROPRIETARY SOFTWARE. Relicensing a version of software
+under this license is permitted WITH THE AUTHOR'S PERMISSION. 
 
 ==== HEADER TEXT FOR SOURCE FILES ====
 The following text must be included (preferably at the top (beginning at line 0) of the Source/the Program) to declare its licensing:
